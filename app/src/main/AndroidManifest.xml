@@ -36,7 +36,6 @@
         <activity
             android:name=".ListEditActivity"
             android:label="@string/title_activity_list_edit"
-            android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
